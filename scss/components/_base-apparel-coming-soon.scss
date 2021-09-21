@@ -118,18 +118,6 @@ p {
     &:focus {
       outline: transparent;
     }
-
-    // &:invalid {
-    //   border: 2px solid $soft-red;
-    // }
-
-    // &:focus:invalid {
-    //   outline: none;
-    // }
-
-    // &:valid {
-    //   border: 1px solid rgba($desaturated-red, 0.5);
-    // }
   }
 
   &__btn {
@@ -152,7 +140,8 @@ p {
   }
 }
 
-.error {
+.error,
+.success {
   font-size: 1.4rem;
   display: none;
   text-align: left;

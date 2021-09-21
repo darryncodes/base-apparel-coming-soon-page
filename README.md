@@ -57,6 +57,7 @@ Users should be able to:
 ### Useful resources
 
 - [Client-side form validation - MDN](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
+- [Florin Pop - JavaScript Client-side Form Validation](https://www.youtube.com/watch?v=rsd4FNGTRBw)
 
 ## Author
 

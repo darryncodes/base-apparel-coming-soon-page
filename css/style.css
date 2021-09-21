@@ -215,7 +215,8 @@ p {
   }
 }
 
-.error {
+.error,
+.success {
   font-size: 1.4rem;
   display: none;
   text-align: left;
