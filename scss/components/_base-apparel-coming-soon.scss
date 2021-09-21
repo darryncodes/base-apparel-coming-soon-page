@@ -8,7 +8,7 @@ main {
       'columnOne columnThree'
       'columnTwo columnThree';
     min-height: 100vh;
-    background-image: url(../../img/bg-pattern-desktop.svg);
+    background-image: url(../img/bg-pattern-desktop.svg);
     background-repeat: no-repeat;
     background-size: 50vw 100%;
   }
@@ -28,7 +28,7 @@ header {
 }
 
 .hero {
-  background-image: url(../../img/hero-mobile.jpg);
+  background-image: url(../img/hero-mobile.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -42,7 +42,7 @@ header {
   }
 
   @media only screen and (min-width: $bp-tablet) {
-    background-image: url(../../img/hero-desktop.jpg);
+    background-image: url(../img/hero-desktop.jpg);
     grid-area: columnThree;
     height: auto;
   }
