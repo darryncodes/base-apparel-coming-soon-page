@@ -37,7 +37,6 @@ Users should be able to:
 
 - [GitHub repo](https://github.com/darryncodes/base-apparel-coming-soon-page)
 - [Solution URL](https://darryncodes.github.io/base-apparel-coming-soon-page/)
-- [Live Site URL](https://www.darryncodes.co.uk/pages/base-apparel-coming-soon-page.html)
 
 ## My process
 
